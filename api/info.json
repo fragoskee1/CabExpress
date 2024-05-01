@@ -1,0 +1,176 @@
+{
+    "cards": [
+        {
+            "_id": 1,
+            "name": "Sales",
+            "icons": "bi bi-cart",
+            "amount": 145,
+            "percentage": 0.12,
+            "active": true
+        },
+        {
+            "_id": 2,
+            "name": "Revenue",
+            "icons": "bi bi-currency-dollar",
+            "amount": 3246,
+            "percentage": 0.08,
+            "active": false
+        },
+        {
+            "_id": 3,
+            "name": "Customers",
+            "icons": "bi bi-people",
+            "amount": 1244,
+            "percentage": -0.11,
+            "active": false
+        }
+    ],
+    "news": [
+        {
+            "_id": 1,
+            "img": "../assets/items/",
+            "title": "Tu daal dena jo dalna hai edher",
+            "subtitle": "ye kya hota hai ye bhi nhi pata mujhe",
+            "category": "abc"
+        },
+        {
+            "_id": 2,
+            "img": "../assets/items/",
+            "title": "Tu daal dena jo dalna hai edher",
+            "subtitle": "ye kya hota hai ye bhi nhi pata mujhe",
+            "category": "abc"
+        },
+        {
+            "_id": 3,
+            "img": "../assets/items/",
+            "title": "Tu daal dena jo dalna hai edher",
+            "subtitle": "ye kya hota hai ye bhi nhi pata mujhe",
+            "category": "abc"
+        },
+        {
+            "_id": 4,
+            "img": "../assets/items/",
+            "title": "Tu daal dena jo dalna hai edher",
+            "subtitle": "ye kya hota hai ye bhi nhi pata mujhe",
+            "category": "abc"
+        },
+        {
+            "_id": 1,
+            "img": "../assets/items/",
+            "title": "Tu daal dena jo dalna hai edher",
+            "subtitle": "ye kya hota hai ye bhi nhi pata mujhe",
+            "category": "abc"
+        }
+    ],
+    "topselling": [
+        {
+            "_id": 1,
+            "img": "../assets/items/",
+            "price": 64,
+            "sold": 124
+        },
+        {
+            "_id": 2,
+            "img": "../assets/items/",
+            "price": 64,
+            "sold": 124
+        },
+        {
+            "_id": 3,
+            "img": "../assets/items/",
+            "price": 64,
+            "sold": 124
+        },
+        {
+            "_id": 4,
+            "img": "../assets/items/",
+            "price": 64,
+            "sold": 124
+        },
+        {
+            "_id": 5,
+            "img": "../assets/items/",
+            "price": 64,
+            "sold": 124
+        }
+    ],
+    "recentsales": [
+        {
+            "_id": 1,
+            "number": "#2457",
+            "customer": "Daksh Damani",
+            "product": "dalal",
+            "price": "5000",
+            "status": "approved"
+        },
+        {
+            "_id": 2,
+            "number": "#2457",
+            "customer": "Daksh Damani",
+            "product": "dalal",
+            "price": "5000",
+            "status": "approved"
+        },
+        {
+            "_id": 3,
+            "number": "#2457",
+            "customer": "Daksh Damani",
+            "product": "dalal",
+            "price": "5000",
+            "status": "approved"
+        },
+        {
+            "_id": 4,
+            "number": "#2457",
+            "customer": "Daksh Damani",
+            "product": "dalal",
+            "price": "5000",
+            "status": "approved"
+        },
+        {
+            "_id": 5,
+            "number": "#2457",
+            "customer": "Daksh Damani",
+            "product": "dalal",
+            "price": "5000",
+            "status": "approved"
+        }
+    ],
+    "recentactivity": [
+        {
+            "_id": 1,
+            "time": "32 min",
+            "color": "text-success",
+            "content": "ghanta likh rha main ab iske baad kuch bhi",
+            "highlight": "overexhaustion"
+        },
+        {
+            "_id": 2,
+            "time": "32 min",
+            "color": "text-success",
+            "content": "ghanta likh rha main ab iske baad kuch bhi",
+            "highlight": "overexhaustion"
+        },
+        {
+            "_id": 3,
+            "time": "32 min",
+            "color": "text-success",
+            "content": "ghanta likh rha main ab iske baad kuch bhi",
+            "highlight": "overexhaustion"
+        },
+        {
+            "_id": 4,
+            "time": "32 min",
+            "color": "text-success",
+            "content": "ghanta likh rha main ab iske baad kuch bhi",
+            "highlight": "overexhaustion"
+        },
+        {
+            "_id": 5,
+            "time": "32 min",
+            "color": "text-success",
+            "content": "ghanta likh rha main ab iske baad kuch bhi",
+            "highlight": "overexhaustion"
+        }
+    ]
+}

@@ -16,7 +16,7 @@ function BackToTop() {
     }, [scroll]);
 
   return (
-    <a onClick={BackToTop} className={'back-to-top d-flex align-item-center justify-content-center ${scroll > 100 ? 'active' : undefined}'}>
+    <a onClick={BackToTop} className={`back-to-top d-flex align-item-center justify-content-center ${scroll > 100 ? 'active' : undefined}`}>
         <i className="bi bi-arrow-up-short"></i>
     </a>
   );

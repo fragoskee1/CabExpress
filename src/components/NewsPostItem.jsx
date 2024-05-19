@@ -1,6 +1,6 @@
 import React from 'react';
 
-function NewsPostItem() {
+function NewsPostItem({ item }) {
   return (
     <div className="post-item clearfix">
       <img src={item.img} alt="" />

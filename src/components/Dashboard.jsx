@@ -7,7 +7,7 @@ import RecentActivity from './RecentActivity';
 import BudgetReport from './BudgetReport';
 import WebTraffic from './WebTraffic';
 import News from './News';
-import Cards from './cards';
+import Cards from './Cards';
 
 function Dashboard() {
 

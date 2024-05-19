@@ -1,4 +1,5 @@
 import React, { useEffect } from 'react';
+import echarts from 'echarts'
 
 function WebTrafficChart() {
     useEffect(() => {
